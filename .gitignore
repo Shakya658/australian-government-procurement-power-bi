@@ -1,0 +1,7 @@
+# Large raw source data
+data/raw/*.xlsx
+data/raw/*.csv
+data/raw/*.zip
+
+# Incomplete exploration files
+data/samples/*.xlsx
